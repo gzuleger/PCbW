@@ -1,7 +1,7 @@
 PCbW – Piece Count by Weight (TI-84 Plus CE Program)
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-![platform](https://img.shields.io/badge/platform-TI%E2%80%9384%20Plus%20CE-orange)
+![platform](https://img.shields.io/badge/platform-TI%E2%80%9384%20-orange)
 ![language](https://img.shields.io/badge/language-TI--BASIC-lightgrey)
 
 PCbW is a TI-BASIC utility for the TI-84 Plus CE that quickly estimates the quantity of small identical parts using total weight and weight per piece.
