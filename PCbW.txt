@@ -1,0 +1,29 @@
+DelVar N
+DelVar G
+DelVar W
+DelVar T
+DelVar C
+ClrHome
+Disp "HOW MANY WERE WEIGHED?"
+Input N
+
+ClrHome
+Disp "HOW MUCH DID THAT WEIGH?"
+Input W
+
+ClrHome
+Disp "HOW MUCH DOES"
+Disp "TOTAL WEIGH?"
+Input T
+
+"Estimated count"
+(NT)/W→C
+
+"Cnt. per weight"
+C/T→G
+
+ClrHome
+Disp "Cnt. per weight"
+Disp G
+Disp "EST. TOTAL PCS:"
+Disp C
